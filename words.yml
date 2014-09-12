@@ -2,7 +2,6 @@ adjectives:
   - bizzaro
   - Belgian
   - new-wave
-  - scifi
   - military
   - multicultural
   - euro
@@ -29,12 +28,13 @@ adjectives:
   - environmental
   - hyper-realistic
   - Christian
-  - neo-Nazi
   - space
   - historical
   - Marxist
   - meta
   - futuristic
+  - communist
+  - epidemic
 
 nouns:
   - mystery
@@ -64,3 +64,4 @@ nouns:
   - western fiction
   - poetry
   - haiku
+  - punk
